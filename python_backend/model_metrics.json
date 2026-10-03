@@ -1,0 +1,57 @@
+{
+  "dataset_size": 10000,
+  "test_size": 2000,
+  "best_model": "GradientBoostingRegressor",
+  "metrics": {
+    "mae_months": 4.37,
+    "rmse_months": 6.17,
+    "r2_score": 0.6667
+  },
+  "random_forest_comparison": {
+    "mae_months": 4.51,
+    "rmse_months": 6.27,
+    "r2_score": 0.6556
+  },
+  "top_feature_importances": [
+    {
+      "feature": "time_to_foa_months",
+      "importance": 0.9379
+    },
+    {
+      "feature": "prior_art_citations",
+      "importance": 0.0177
+    },
+    {
+      "feature": "total_claims",
+      "importance": 0.0126
+    },
+    {
+      "feature": "indep_claims",
+      "importance": 0.0058
+    },
+    {
+      "feature": "examiner_difficulty_lenient",
+      "importance": 0.0053
+    },
+    {
+      "feature": "examiner_difficulty_strict",
+      "importance": 0.0036
+    },
+    {
+      "feature": "tech_center_1600",
+      "importance": 0.002
+    },
+    {
+      "feature": "tech_center_3700",
+      "importance": 0.0019
+    },
+    {
+      "feature": "tech_center_1700",
+      "importance": 0.0017
+    },
+    {
+      "feature": "entity_size_small",
+      "importance": 0.0014
+    }
+  ]
+}

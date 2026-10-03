@@ -44,9 +44,9 @@ Because the frontend is built using modern vanilla ES Modules, you can simply op
    ```powershell
    python python_backend/server.py
    ```
-- **Web Dashboard**: [http://localhost:8080](http://localhost:8080)
-- **API Health**: [http://localhost:8080/api/health](http://localhost:8080/api/health)
-- **Model Metrics**: [http://localhost:8080/api/metrics](http://localhost:8080/api/metrics)
+- **Web Dashboard**:  https://patent-prosecution-timeline-predict.vercel.app/
+- **API Health**: https://patent-prosecution-timeline-predict.vercel.app/api/health
+- **Model Metrics**: https://patent-prosecution-timeline-predict.vercel.app/api/metrics
 
 ### Option 3: Retrain the Machine Learning Models
 ```powershell

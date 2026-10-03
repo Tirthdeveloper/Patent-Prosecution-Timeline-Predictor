@@ -30,3 +30,5 @@ ehthumbs.db
 # Logs & Temporary Files
 *.log
 scratch/
+
+.vercel

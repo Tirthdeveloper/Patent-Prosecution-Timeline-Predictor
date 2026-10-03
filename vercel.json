@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "patent-prosecution-timeline-predictor",
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/index.py"
+    }
+  ]
+}

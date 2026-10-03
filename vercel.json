@@ -1,6 +1,5 @@
 {
-  "version": 2,
-  "name": "patent-prosecution-timeline-predictor",
+  "framework": null,
   "rewrites": [
     {
       "source": "/api/(.*)",

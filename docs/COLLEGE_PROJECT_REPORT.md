@@ -1,10 +1,6 @@
-# Academic College Project Report
+# College Project Report
 
 ## Patent Prosecution Timeline Predictor: Driving Digital Transformation in Intellectual Property & LegalTech
-
-> **Prepared for Final Year Engineering / Capstone Project Evaluation**  
-> **Repository:** [https://github.com/Tirthdeveloper/Patent-Prosecution-Timeline-Predictor](https://github.com/Tirthdeveloper/Patent-Prosecution-Timeline-Predictor)  
-> **Live Web Application:** [https://patent-prosecution-timeline-predict.vercel.app/](https://patent-prosecution-timeline-predict.vercel.app/)
 
 ---
 
